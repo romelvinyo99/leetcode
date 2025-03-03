@@ -6,4 +6,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/romelvinyo99/leetcode/tree/master/0175-combine-two-tables) |
 | [0178-rank-scores](https://github.com/romelvinyo99/leetcode/tree/master/0178-rank-scores) |
+| [0185-department-top-three-salaries](https://github.com/romelvinyo99/leetcode/tree/master/0185-department-top-three-salaries) |
 <!---LeetCode Topics End-->
